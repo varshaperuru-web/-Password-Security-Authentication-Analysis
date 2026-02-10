@@ -56,7 +56,7 @@ Possession factor
 Inherence factor
 Role in layered security
 
-🔹 Password Security Best Practices
+### 🔹 Password Security Best Practices
 
 Minimum length requirements
 Character diversity enforcement
@@ -64,7 +64,7 @@ Salted hashing
 Login rate limiting
 Monitoring authentication logs
 
-🔹 Strong Authentication Recommendations
+### 🔹 Strong Authentication Recommendations
 
 bcrypt / Argon2 implementation
 Unique salts per user
@@ -75,6 +75,7 @@ Periodic security audits
 ## 🏆 Final Outcome
 
 This project demonstrates in-depth knowledge of:
+
 Password storage vulnerabilities
 Secure hashing implementatio
 Modern password attack models
