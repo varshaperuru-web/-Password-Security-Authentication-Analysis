@@ -17,6 +17,8 @@ Strong authentication system design
 Security best practices for modern applications
 
 ## 📚 Topics Covered
+:
+
 🔹 Password Storage Mechanisms
 
 Hashing vs Encryption
@@ -95,7 +97,8 @@ Account lockout policies
 
 Periodic security audits
 
-🏆 Final Outcome
+
+## 🏆 Final Outcome
 
 This project demonstrates in-depth knowledge of:
 
